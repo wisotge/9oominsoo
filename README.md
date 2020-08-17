@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 ## Technology stack
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"></code>
 <code><img height="30" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/99937611/original/d1c6ac81f536b60b0df88472d3582cdc4ad644d4/spring-mvc-boot-application.png"></code>
-<code><img height="30" src="https://t1.daumcdn.net/cfile/tistory/231246335915E9D634"></code>
+<code><img height="40" src="https://t1.daumcdn.net/cfile/tistory/231246335915E9D634"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vue.png/220px-Vue.png"></code>
+<code><img height="30" src="https://framework7.io/i/share-banner.jpg"></code>
+<code><img height="30" src="https://t1.daumcdn.net/cfile/tistory/996E164D5B2303AA02"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
