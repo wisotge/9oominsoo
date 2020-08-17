@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 <br/>
 
 <code><img height="30" src="https://miro.medium.com/max/1200/1*BCZkmZR1_YzDZy22Vn4uUw.png"></code>
-<code><img height="50" src="https://pbs.twimg.com/profile_images/1217566226827759616/hM6lnfw8_400x400.jpg"></code>
+<code><img height="40" src="https://pbs.twimg.com/profile_images/1217566226827759616/hM6lnfw8_400x400.jpg"></code>
 
 </div>
