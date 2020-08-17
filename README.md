@@ -51,6 +51,10 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<br/> 
+
+<code><img height="30" src="https://miro.medium.com/max/1200/1*BCZkmZR1_YzDZy22Vn4uUw.png"></code>
 <code><img height="30" src="https://www.albawaba.com/sites/default/files/im/pr_new/Oracle-logo.png?width=1200&enable=upscale"></code>
 <code><img height="30" src="https://media.vlpt.us/images/leejh3224/post/eeea9dd5-d99a-4b7b-9024-d4866d48ca70/mysql.png"></code>
 <code><img height="30" src="https://4.bp.blogspot.com/-pTRQOarwEFk/VgTFTZW_w3I/AAAAAAAABg8/XY4q2R3YNj0/s320/postgresql-logo.png"></code>
