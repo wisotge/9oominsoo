@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align=center>
+  
+![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
+
+**Ajou Computer engineering and Software / Server Developer**
+
+</div>
+
 
 <!--
 **9oominsoo/9oominsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
