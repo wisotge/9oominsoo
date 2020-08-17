@@ -2,7 +2,7 @@
   
 ![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
 
-**Ajou Computer engineering and Software / Server Developer**
+**Ajou Computer engineering and Software / Developer**
 
 </div>
 
