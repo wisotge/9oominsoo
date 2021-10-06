@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Link
+### Link
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9oominsoo)](https://hits.seeyoufarm.com)
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 </div>
 
-## My Stats
-<div align=center>
-[![9oominsoo's github stats](https://github-readme-stats.vercel.app/api?username=9oominsoo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### My Stats
+
+[![9oominsoo's Github stats](https://github-readme-stats.vercel.app/api?username=9oominsoo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-
 </div>
