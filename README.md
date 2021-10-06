@@ -32,4 +32,7 @@ Here are some ideas to get you started:
 
 </div>
 
+<div align=center>
+## My Stats
+[![9oominsoo's github stats](https://github-readme-stats.vercel.app/api?username=KooMinSoo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
