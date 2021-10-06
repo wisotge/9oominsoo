@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 </div>
 
-### My Stats
+### Top Language
 
-[![9oominsoo's Github stats](https://github-readme-stats.vercel.app/api?username=9oominsoo&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
