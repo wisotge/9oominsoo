@@ -30,7 +30,3 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rnalstn0507@gmail.com)](mailto:rnalstn0507@gmail.com)
 
 </div>
-
-### Top Language
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9oominsoo)](https://github.com/anuraghazra/github-readme-stats)
