@@ -29,5 +29,3 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rnalstn0507@gmail.com)](mailto:rnalstn0507@gmail.com)
 
 </div>
-
-![wisotge's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisotge&show_icons=true&theme=radical)
